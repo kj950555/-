@@ -1,19 +1,49 @@
-# big-time
+## 项目实现框架 vue-cli 
 
-## Project setup
-```
-npm install
-```
+组件  图表：ECharts  Element-ui vuex
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 登录界面
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 管理菜单
+
+### 商品管理
+
+#### 商品列表
+
+功能：商品的增删查功能
+
+
+
+分类参数
+
+功能：分类的增删查功能
+
+商品分类
+
+功能：分类的增删改查功能
+
+### 订单管理
+
+订单列表
+
+功能：
+
+### 权限管理
+
+角色列表
+
+
+
+权限列表
+
+### 用户管理
+
+用户列表
+
+功能：用户的增删改查
+
+### 数据统计
+
+数据报表
